@@ -15,9 +15,7 @@ I'm a passionate software developer with a keen interest in web development, dat
 - **Version Control:** Git, GitHub
 - **Tools:** Docker, Kubernetes, Jenkins, VS Code
 
-## 📈 GitHub Stats
 
-![JaafarCh01's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaafarCh01&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
 
