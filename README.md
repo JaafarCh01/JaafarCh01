@@ -8,7 +8,7 @@ I'm a passionate software developer with a keen interest in web development, dat
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Python, JavaScript, Java, C++
+- **Languages:** Python, JavaScript, Java, C++ , PHP 
 - **Web Development:** React, Node.js, Express, HTML, CSS
 - **Data Science:** Pandas, NumPy, Scikit-learn, TensorFlow
 - **Databases:** MySQL, PostgreSQL, MongoDB
