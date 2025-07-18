@@ -1,40 +1,53 @@
-# Hi there, I'm Jaafar! 👋
+# Cherkaoui Jaafar
 
+Full-stack engineer. Backend-heavy. ML-capable. Focused on shipping working systems.
 
+---
 
-## 🚀 About Me
+## Tech Stack
 
-I'm a passionate software developer with a keen interest in web development, data science, and open-source projects. I enjoy solving complex problems and continuously improving my skills.
+### Languages
+- Python
+- Java
+- JavaScript / TypeScript
+- PHP
 
-## 🛠️ Technologies & Tools
+### Frameworks
+- Spring Boot
+- React
+- Angular
+- Laravel
+- Express
+- FastAPI
 
-- **Languages:** Python, JavaScript, Java, C++ , PHP 
-- **Web Development:** React, Node.js, Express, HTML, CSS
-- **Data Science:** Pandas, NumPy, Scikit-learn, TensorFlow
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Version Control:** Git, GitHub
-- **Tools:** Docker, Kubernetes, Jenkins, VS Code
+### Databases
+- PostgreSQL
+- MySQL
+- MongoDB
 
+### ML / AI
+- SVM (EmcSVM), Fuzzy Logic, NSGA-II
+- scikit-learn, pandas, NumPy
+- Predictive systems, optimization pipelines
 
+### Cloud & DevOps
+- Microsoft Azure
+- Docker
+- GitHub Actions
+- Git, Linux
 
-## 🔗 Connect with Me
+---
 
-- [LinkedIn]([https://www.linkedin.com/in/jaafarch01](https://www.linkedin.com/in/cherkaoui-jaafar-3a4458210/))
+## Core Interests
 
-## 📫 How to reach me
+- Machine learning systems that produce measurable results  
+- Building reliable backend infrastructure  
+- Applying academic methods to market environments  
+- Optimizing for clarity, performance, and ROI  
 
-- Email: jaafarcherkaoui24@example.com
+---
 
-## 🌱 What I'm currently learning
+## Contact
 
-- Advanced React and Redux
-- Deep learning with TensorFlow
-- Cloud computing with AWS and Azure
-
-## 🎯 Goals for 2025
-
-- Contribute to open-source projects
-- Build a personal portfolio website
-- Learn and implement DevOps practices
-
-Thanks for stopping by! Feel free to reach out if you want to collaborate on a project or just chat about tech. 😊
+- **Email**: jaafarcherkaoui24@gmail.com  
+- **LinkedIn**: [linkedin.com/in/cherkaoui-jaafar-3a4458210](https://www.linkedin.com/in/cherkaoui-jaafar-3a4458210)  
