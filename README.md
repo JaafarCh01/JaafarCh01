@@ -1,44 +1,22 @@
 <h1 align="center">Cherkaoui Jaafar</h1>
 
 <p align="center">
-Full-stack engineer &middot; Backend-focused &middot; Machine Learning systems  
-<br>
-Clean architecture · Predictive modeling · Production-ready code
+  Backend Engineer. Building cool stuff with code.
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+I build and design scalable systems. Right now, I'm focused on:
 
-### Languages  
-Python · Java · JavaScript / TypeScript · PHP
-
-### Frameworks  
-Spring Boot · React · Angular · Laravel · Express · FastAPI
-
-### Databases  
-PostgreSQL · MySQL · MongoDB
-
-### Machine Learning  
-SVM ensembles (EmcSVM) · Fuzzy Logic · NSGA-II  
-scikit-learn · pandas · NumPy
-
-### Cloud & DevOps  
-Azure · Docker · GitHub Actions · Git · Linux
+* **System Design** & Clean Architecture
+* **Laravel** & **Spring Boot**
+* Automation & Integration (n8n, Zapier)
+* ML-powered applications
 
 ---
 
-## 🎯 Focus Areas
-
-- Building scalable backend infrastructure  
-- Applying ML to real-world market systems  
-- Evolutionary optimization and forecasting  
-- Reproducible, testable, measurable results  
-
----
-
-## 📫 Contact
-
-**Email**: jaafarcherkaoui24@gmail.com  
-**LinkedIn**: [linkedin.com/in/cherkaoui-jaafar-3a4458210](https://www.linkedin.com/in/cherkaoui-jaafar-3a4458210)  
-**GitHub**: [github.com/JaafarCh01](https://github.com/JaafarCh01)
+<p align="center">
+  <a href="https://www.linkedin.com/in/cherkaoui-jaafar-3a4458210">LinkedIn</a> &middot;
+  <a href="mailto:jaafarcherkaoui24@gmail.com">Email</a> &middot;
+  <a href="https://github.com/JaafarCh01">GitHub</a>
+</p>
