@@ -1,12 +1,12 @@
 <h1 align="center">Cherkaoui Jaafar</h1>
 
 <p align="center">
-  Backend Engineer. Building cool stuff with code.
+ SWE.
 </p>
 
 ---
 
-I build and design scalable systems. Right now, I'm focused on:
+focused on:
 
 * **System Design** & Clean Architecture
 * **Laravel** & **Spring Boot**
