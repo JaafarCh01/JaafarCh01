@@ -16,7 +16,5 @@ focused on:
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/cherkaoui-jaafar-3a4458210">LinkedIn</a> &middot;
   <a href="mailto:jaafarcherkaoui24@gmail.com">Email</a> &middot;
-  <a href="https://github.com/JaafarCh01">GitHub</a>
 </p>
