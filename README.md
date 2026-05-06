@@ -1,20 +1,52 @@
 <h1 align="center">Cherkaoui Jaafar</h1>
 
 <p align="center">
- SWE.
+  <a href="https://github.com/JaafarCh01">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+engineer.;Building+agents+that+do+the+boring+parts.;Shipping+from+somewhere+warm." alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
-focused on:
+### `whoami`
 
-* **System Design** & Clean Architecture
-* **Laravel** & **Spring Boot**
-* Automation & Integration (n8n, Zapier)
-* ML-powered applications
+```ts
+const me = {
+  role:    "software engineer",
+  focus:   ["agentic AI", "full-stack", "automations"],
+  stack:   ["TypeScript", "React", "Node", "Python"],
+  mantra:  "ship > perfect",
+} as const;
+```
 
 ---
+
+### 🛠 Stack
+
+<p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
+
+---
+
+### ⚡ Currently
+
+- Building things that didn't exist yesterday
+- Teaching agents to handle the boring parts
+- Quietly cooking
+
+---
+
+### 📊 Stats
 
 <p align="center">
-  <a href="mailto:jaafarcherkaoui24@gmail.com">Email</a> &middot;
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JaafarCh01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaafarCh01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
+
+<p align="center"><sub>Built with too much coffee.</sub></p>
